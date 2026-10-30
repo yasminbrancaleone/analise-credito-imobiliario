@@ -1,0 +1,26 @@
+# Locais
+.env
+
+# Python e ambientes locais
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+pytest-cache-files-*/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos gerados pela execução
+output/
+*.log
+
+# Ferramentas locais
+.vscode/
+.idea/
+.ipynb_checkpoints/
